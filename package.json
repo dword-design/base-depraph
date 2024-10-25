@@ -45,7 +45,7 @@
     "nuxt-fontawesome": "^0.4.0",
     "nuxt-push-plugins": "^2.0.0",
     "require-package-name": "^2.0.1",
-    "vue": "^2.6.11",
+    "vue": "^3.0.0",
     "vue-spinner": "^1.0.3"
   },
   "devDependencies": {
